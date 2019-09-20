@@ -1,0 +1,2 @@
+# MyKataTypescript
+Refactor GildedRose Typescript
